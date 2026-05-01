@@ -1,4 +1,4 @@
-# MediChar
+# Medical-Coding-Explanation-Bot (MediChar)
 
 MediChar is a local-first ICD-10 workbench built around a FastAPI backend and a Streamlit frontend. It combines:
 
