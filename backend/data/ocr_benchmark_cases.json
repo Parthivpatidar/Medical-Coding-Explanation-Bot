@@ -1,0 +1,18 @@
+{
+  "cases": [
+    {
+      "case_id": "printed_demo_01",
+      "difficulty": "easy",
+      "ocr_mode": "printed",
+      "image_path": "REPLACE_WITH_LOCAL_IMAGE_PATH",
+      "expected_text": "Patient: John Smith\nChief Complaint: Cough, fever, and shortness of breath.\nAssessment: Pneumonia."
+    },
+    {
+      "case_id": "handwritten_demo_01",
+      "difficulty": "medium",
+      "ocr_mode": "handwritten",
+      "image_path": "REPLACE_WITH_LOCAL_IMAGE_PATH",
+      "expected_text": "John Smith 67 y/o 4/15/24\nCC: Cough, fever, SOB\nHPI: 4 day hx of cough, fever, fatigue.\nDx: Pneumonia.\nPlan: IV ceftriaxone."
+    }
+  ]
+}

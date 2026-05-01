@@ -1,0 +1,11 @@
+.venv/
+.env
+backend/.env
+__pycache__/
+.pytest_cache/
+.streamlit/
+data/processed/
+backend/data/processed/
+backend/data/processed/vector_store/
+models/*.json
+*.pyc

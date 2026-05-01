@@ -1,0 +1,81 @@
+# Clinical note section headers and abbreviations
+cc
+hpi
+pmh
+ros
+pe
+exam
+examination
+findings
+assessment
+diagnosis
+plan
+follow up
+recheck
+chief complaint
+history of present illness
+
+# Common symptoms and note language
+patient
+fever
+cough
+shortness of breath
+respiratory
+resp
+issues
+prior
+history
+complains
+crackles
+wheezing
+rales
+fatigue
+weakness
+pain
+chest
+abdomen
+nausea
+vomiting
+headache
+
+# Vitals, oxygen, and imaging
+temperature
+temp
+rr
+hr
+bp
+oxygen
+o2
+saturation
+sat
+cxr
+xray
+x-ray
+infiltrate
+infiltrates
+
+# Anatomy and location
+lung
+lungs
+right
+left
+upper
+lower
+lobe
+lobes
+ril
+rll
+rul
+lll
+lul
+
+# Diagnoses and treatment words
+pneumonia
+infection
+ceftriaxone
+azithromycin
+antibiotic
+iv
+po
+im
+follow-up
